@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gogotr-hub
-- 👀 I’m interested in C#, javascript, React, NodeJS
-- 🌱 I’m currently learning React, NodeJS
-- 💞️ 자바스크립트를 열심히 수련중인 과객입니다..
+- 👀 I’m interested in C#, javascript, Java
+- 🌱 I’m currently learning Java
 - 📫 고수가 되는 그날까지
 
 <!---
